@@ -1,2 +1,2 @@
 # calculator
-it is a calculator project.
+it is a calculator project through c++.
